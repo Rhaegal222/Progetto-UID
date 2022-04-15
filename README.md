@@ -27,7 +27,7 @@ Ora vediamo che app o videogioco fare.
 ## Cose da fare
 - Interfaccia
 
->## Links utili
->>**[Diario delle lezioni](https://sites.google.com/unical.it/inf-uid/diario-delle-lezioni?authuser=0)**
->
->>**[Slides](https://sites.google.com/unical.it/inf-uid/slides?authuser=0)**
+## Links utili
+**[Diario delle lezioni](https://sites.google.com/unical.it/inf-uid/diario-delle-lezioni?authuser=0)**
+<br>
+**[Slides](https://sites.google.com/unical.it/inf-uid/slides?authuser=0)**
