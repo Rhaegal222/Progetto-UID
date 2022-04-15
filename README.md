@@ -20,9 +20,14 @@ Per il calcolo del voto assegnato saranno considerati i seguenti criteri:
 - Il file del progetto deve essere rinominato "ProgettoUID-2021-2022-Cognome1-Cognome2-Cognome3".
 
 **Nota bene**: Dopo la consegna non è possibile modificare il file inviato.
-
+# Realizzazione
 ## Idea generale
 Ora vediamo che app o videogioco fare.
 
 ## Cose da fare
 - Interfaccia
+
+>## Links utili
+>>**[Diario delle lezioni](https://sites.google.com/unical.it/inf-uid/diario-delle-lezioni?authuser=0)**
+>
+>>**[Slides](https://sites.google.com/unical.it/inf-uid/slides?authuser=0)**
