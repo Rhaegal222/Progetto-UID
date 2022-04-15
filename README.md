@@ -16,8 +16,8 @@ Per il calcolo del voto assegnato saranno considerati i seguenti criteri:
 - apporto individuale al progetto
 
 ##Consegna
-_Il file del progetto deve essere in formato .zip o .rar.
-_Il file del progetto deve essere rinominato "ProgettoUID-2021-2022-Cognome1-Cognome2-Cognome3".
+- Il file del progetto deve essere in formato .zip o .rar.
+- Il file del progetto deve essere rinominato "ProgettoUID-2021-2022-Cognome1-Cognome2-Cognome3".
 
 **Nota bene**: Dopo la consegna non è possibile modificare il file inviato.
 
