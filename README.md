@@ -25,4 +25,4 @@ Per il calcolo del voto assegnato saranno considerati i seguenti criteri:
 Ora vediamo che app o videogioco fare.
 
 ## Cose da fare
--Interfaccia
+- Interfaccia
