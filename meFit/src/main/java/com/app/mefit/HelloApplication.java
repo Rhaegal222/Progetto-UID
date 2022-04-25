@@ -1,4 +1,4 @@
-package com.mefit.mefit;
+package com.app.mefit;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

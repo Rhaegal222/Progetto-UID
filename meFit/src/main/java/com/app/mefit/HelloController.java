@@ -1,4 +1,4 @@
-package com.mefit.mefit;
+package com.app.mefit;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
