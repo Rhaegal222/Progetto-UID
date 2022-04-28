@@ -37,7 +37,7 @@ Una volta iniziato un programma partirà un timer che terrà conto dei minuti im
 recupero manualmente si procede ad attivare il timer del prossimo esercizio così da consentire all'utente qualche secondo in più se ne ha bisogno.
 
 ### I timer
-
+Dobbiamo vedere
 
 ### Obiettivi
 - Creare i programmi di allenamento
