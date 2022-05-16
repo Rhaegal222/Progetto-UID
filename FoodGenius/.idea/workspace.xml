@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc1a6c7-14dc-4621-ae80-0cb26099f542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Documents/img/home_mobile.png" afterDir="false" />
+    <list default="true" id="8dc1a6c7-14dc-4621-ae80-0cb26099f542" name="Changes" comment="Aggiungi nuovi disegni dell'interfaccia">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Documents/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652671574463</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aggiungi nuovi disegni dell'interfaccia">
+      <created>1652696810201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652696810201</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Aggiungi nuovi disegni dell'interfaccia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiungi nuovi disegni dell'interfaccia" />
   </component>
 </project>
