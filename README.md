@@ -23,10 +23,15 @@ Per il calcolo del voto assegnato saranno considerati i seguenti criteri:
 # Realizzazione
 
 ##1.0: Ricettario
+
 ###1.1: Idea generale
+L'applicazione inseriti gli ingredienti propone delle ricette, permette di aggiungerne delle altre nel
+ricettario personale
+
 ###1.2: Interfaccia
 Ancora da disegnare
-###1.3: 
+
+###1.3: Roadmap
 
 
 ##2.0: Registro Fitness
