@@ -7,5 +7,6 @@ L'applicazione inseriti gli ingredienti propone delle ricette, permette di aggiu
 ricettario personale
 
 ###1.2: Interfaccia
-![Home.png](img/Home.png "Text to show on mouseover")
+![Home.png](img/Home.png "")
+![home_mobile](img/home_mobile.png "Interfaccia mobile dell'applcicazione")
 ###1.3: Roadmap
