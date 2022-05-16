@@ -1,12 +1,13 @@
 # Realizzazione
 
-##1.0: Ricettario
+## 1.0: Ricettario
 
-###1.1: Idea generale
+### 1.1: Idea generale
 L'applicazione inseriti gli ingredienti propone delle ricette, permette di aggiungerne delle altre nel
 ricettario personale
 
-###1.2: Interfaccia
+### 1.2: Interfaccia
 ![Home.png](img/Home.png "")
 ![home_mobile](img/home_mobile.png "Interfaccia mobile dell'applcicazione")
-###1.3: Roadmap
+
+### 1.3: Roadmap
